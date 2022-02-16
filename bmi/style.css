@@ -1,0 +1,43 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+    
+}
+
+h2{
+    text-align: center;
+    padding: 2rem;
+    
+}
+h5{
+    text-align:center;
+    
+}
+
+.bmi-box{
+    background-color: #424242;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: 2px solid rgb(151, 34, 73);
+    
+}
+
+.row{
+    margin-bottom: 50px;
+    margin-top: 30px;
+    margin-right: 20px;
+    
+}
+
+.result-bmi{
+    text-align: center;
+    
+}
+
+
+
